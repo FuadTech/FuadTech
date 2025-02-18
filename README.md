@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Fuad Beybutov</h1>
 
 # 💫 About Me:
- Hello, I am Fuad Beybutov.
  <h3>💡 Modern Front-End Developer | React.js, Next.js TypeScript & Tailwind Specialist.</h3>
  <h3>🎨 Crafting sleek, interactive, and high-performance web applications is my passion.</h3>
  <h3>🚀 I thrive on reshaping user experiences and delivering innovative solutions powered by technology.</h3>
