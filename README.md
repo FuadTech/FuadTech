@@ -1,11 +1,12 @@
 ![MasterHead](https://media.licdn.com/dms/image/v2/D4E16AQH1l6CG4d5UGA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1737463233130?e=1745452800&v=beta&t=nzRui7eZn17EUpEeGxwzvggMTL0_Z9eSb9gFuIazpKI)
+<h1 align="center">Hi 👋, I'm Fuad Beybutov</h1>
 
 # 💫 About Me:
  Hello, I am Fuad Beybutov.
- 💡 Modern Front-End Developer | React, TypeScript & Tailwind Specialist.
- 🎨 Crafting sleek, interactive, and high-performance web applications is my passion.
- 🚀 I thrive on reshaping user experiences and delivering innovative solutions powered by technology.
- 🔭 I’m currently working on Next.js.
+ <h3 align="center">💡 Modern Front-End Developer | React, TypeScript & Tailwind Specialist.</h3>
+ <h3 align="center">🎨 Crafting sleek, interactive, and high-performance web applications is my passion.</h3>
+ <h3 align="center">🚀 I thrive on reshaping user experiences and delivering innovative solutions powered by technology.</h3>
+ <h3 align="center">🔭 I’m currently working on Next.js.</h3>
 
 
 ## 🌐 Socials:
