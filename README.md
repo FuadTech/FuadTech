@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on Next.js
+ Hello, I am Fuad Beybutov.
+ 💡 Modern Front-End Developer | React, TypeScript & Tailwind Specialist.
+ 🎨 Crafting sleek, interactive, and high-performance web applications is my passion.
+ 🚀 I thrive on reshaping user experiences and delivering innovative solutions powered by technology.
+ 🔭 I’m currently working on Next.js.
 
 
 ## 🌐 Socials:
